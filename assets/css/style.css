@@ -32,7 +32,7 @@ h2 {
 
 
 h1 {
-	padding: 1em;
+	padding: 0.75em;
 	width: fit-content;
 }
 
@@ -90,7 +90,7 @@ footer {
 
 footer > p {
 	color: #ccc;
-	line-height: 4;
+	line-height: 3;
 	text-align: center;
 }
 
@@ -147,7 +147,7 @@ a:active {
 }
 
 .filler {
-	height: 10vh;
+	height: 20vh;
 }
 
 /* portfolio page - rulesets */
